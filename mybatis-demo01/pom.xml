@@ -27,6 +27,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>哈哈哈哈哈哈</version>
+            <version>我是hot-fixtest</version>
             <scope>test</scope>
         </dependency>
 
